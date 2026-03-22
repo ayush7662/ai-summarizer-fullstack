@@ -98,9 +98,7 @@ http://localhost:5173
 
 ---
 
-## 📷 Output Screenshot
 
-(Add your screenshot here as screenshot.png)
 
 ---
 
