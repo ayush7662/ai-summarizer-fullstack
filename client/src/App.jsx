@@ -18,7 +18,7 @@ function App() {
     setResult(null);
 
     try {
-      const res = await fetch("http://localhost:5000/api/summarize", {
+      const res = await fetch("https://ai-summarizer-fullstack.vercel.app/api/summarize", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
