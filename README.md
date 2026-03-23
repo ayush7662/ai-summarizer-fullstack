@@ -16,7 +16,7 @@ Github Link: https://github.com/ayush7662/ai-summarizer-fullstack
 
 Live Link: https://ai-summarizer-fullstack-1zeu.vercel.app/
 
-video Link: 
+video Link: https://www.loom.com/share/b2b17325f19b488baf99f44a14c99287p
 
 ---
 
